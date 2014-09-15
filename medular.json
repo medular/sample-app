@@ -1,0 +1,13 @@
+{
+  "base": [
+    "es5-shim",
+    "es6-promises"
+  ],
+  "core": [
+    "git://github.com/medular/core-ajax"
+  ],
+  "sandbox": [
+    "git://github.com/medular/sandbox-streams"
+  ],
+  "modules": []
+}
